@@ -1,0 +1,26 @@
+body {
+  background-color: #efefef;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.special {
+  color: blue;
+  font-style: italic;
+}
+
+.march {
+  color: green;
+}
+
+.april {
+  color: purple;
+}
+
+.may {
+  color: pink;
+}
